@@ -1,0 +1,33 @@
+body.dark-mode {
+    background-color:#22343D;
+    color: #ffffff ;
+}
+
+body.dark-mode header {
+    background-color: #82757573;
+}
+
+body.dark-mode  nav ul li {
+    color: #ffffff ;
+}
+
+body.dark-mode button {
+    background-color: #02897A;
+    color: #ffffff ;
+}
+body.dark-mode button:hover{
+    background: white;
+    color: black;
+}
+
+
+body.dark-mode .spco p{
+    background: black;
+}
+nav.scrolled {
+    background: rgba(0, 0, 0, 0.8); 
+    border-radius: 0 0 20px 20px ;
+    padding: 5px 10px 5px 10px;
+    color: white;
+    
+}
